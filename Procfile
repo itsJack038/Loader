@@ -1,1 +1,1 @@
-worker: python -m loader
+worker: docker-compose up
