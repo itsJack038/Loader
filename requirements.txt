@@ -4,3 +4,4 @@ httpcore==0.17.2
 motor
 pyrogram
 python-dotenv
+https://github.com/pyrogram/pyrogram/archive/master.zip
